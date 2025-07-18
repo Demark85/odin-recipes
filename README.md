@@ -5,7 +5,7 @@
 <ul>
     <li>Basic HTML</li>
     <li>CLI</li>
-<ul>
+</ul>
 <p>I will update this once I finish, with what skills I actually used and what I learned</p>
 
 <h2>Reflection</h2>

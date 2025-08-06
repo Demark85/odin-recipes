@@ -25,6 +25,7 @@ h1 {
     align-items: flex-end;
     flex: 3 2 auto;
     min-width: 400px;
+    flex: 1;
 
 }
 
